@@ -1,0 +1,88 @@
+{
+  "general": {
+    "folderName": "Cassanova Posse",
+    "audioFileName": "cassanovaposse.wav",
+    "audioFilePath": "C:\\Users\\Natal\\Documents\\Escuela\\Proyecto\\src\\proyecto\\canciones\\Cassanova Posse\\cassanovaposse.wav",
+    "iconFileName": "malote.png",
+    "iconFilePath": "C:\\Users\\Natal\\Documents\\Escuela\\Proyecto\\src\\proyecto\\canciones\\Cassanova Posse\\malote.png",
+    "audioLeadIn": 330,
+    "type": "Elegante"
+  },
+  "editor": {
+    "distanceSpacing": 0,
+    "beatDivisor": 0,
+    "timelineZoom": 0
+  },
+  "metadata": {
+    "title": "Cassanova Posse",
+    "artist": "ALI",
+    "creator": "LaEscobar",
+    "duration": 91000,
+    "previewStart": 34000,
+    "status": "Published",
+    "BPM": 178.0
+  },
+  "difficulty": [
+    {
+      "difficulty": "Normal",
+      "difficultyValue": 5,
+      "hp": 200,
+      "hitObjects": [
+        [
+          1,
+          0,
+          330,
+          -1
+        ],
+        [
+          1,
+          0,
+          667,
+          -1
+        ],
+        [
+          1,
+          0,
+          1004,
+          -1
+        ],
+        [
+          1,
+          0,
+          1341,
+          -1
+        ],
+        [
+          1,
+          0,
+          1674,
+          -1
+        ],
+        [
+          1,
+          0,
+          1842,
+          -1
+        ],
+        [
+          2,
+          3,
+          2010,
+          -1
+        ]
+      ]
+    },
+    {
+      "difficulty": "",
+      "difficultyValue": 0,
+      "hp": 200,
+      "hitObjects": []
+    },
+    {
+      "difficulty": "",
+      "difficultyValue": 0,
+      "hp": 200,
+      "hitObjects": []
+    }
+  ]
+}
